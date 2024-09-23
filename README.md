@@ -1,6 +1,6 @@
 # Physics 427 Project 1: Raytracing a Black Hole Image
 
-__Due 11:59pm Monday 10/23/2023__
+__Due 11:59pm Wednesday 10/23/2023__
 
 ![Interstellar](https://interactive.wired.com/www-wired-com__2014__10__astrophysics-interstellar-black-hole/ut_interstellarOpener_f.png)
 
